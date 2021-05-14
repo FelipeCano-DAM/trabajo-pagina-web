@@ -1,0 +1,117 @@
+#cabecera {
+	height: 15%;
+	width: 100%;
+	}
+
+
+#menu {
+	height: 75%;
+	width: 20%;
+	float:left;
+}
+
+#cuerpo {
+	height: 75%;
+	width: 80%;
+	float:left;
+	overflow:auto;
+}
+
+h1 {
+	float:right;
+	margin-top:3%;
+}
+
+p {
+	text-align:justify;
+	margin-right:2%;
+}
+
+ul {
+  	padding: 0;
+  	width: 100%;
+}
+
+#menu a {
+  	outline: none;
+  	text-decoration: none;
+  	display: inline-block;
+  	width: 200px;
+ 	margin-right: 0.625%;
+  	text-align: left;
+  	line-height: 3;
+  	color: black;
+}
+
+
+li:last-child a {
+  	margin-right: 0;
+}
+
+
+#menu a:hover {     
+  	background: lavender;
+}
+
+#menu a:active {
+  	background: red;
+  	color: white;
+}
+tr {
+	text-align:center;
+}
+
+h2 {
+margin-left:;
+}
+
+#c159 {
+	width: 100%;
+	max-height: 100%;
+	max-width: 100%;
+	height: auto;
+}
+
+#interior {
+	width: 50%;
+	max-height: 400px;
+	max-width: 750px;
+	height: auto;
+}
+
+#interior2 {
+	width: 50%;
+	max-height: 400px;
+	max-width: 750px;
+	height: auto;
+	float:right;
+	position:relative;
+}
+
+#leonardo {
+	height: auto;
+	display:block;
+	margin-left:20%;
+}
+
+table {
+	border:black;
+}
+
+form {
+    border-radius: 10px;
+    width: 70%;
+}
+
+iframe {
+	max-height: 500px;
+	max-width: 710px;
+	position:relative;
+}
+
+body{
+	background-position: bottom; 
+	background-repeat: no-repeat; /* Do not repeat the image */
+	Background-image: url(imagenes/logo2.png);
+	
+}
