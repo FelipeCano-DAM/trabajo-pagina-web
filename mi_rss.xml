@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>MI canal de RSS</title>
+        <link>https://felipecano-dam.github.io/trabajo-pagina-web/</link>
+        <description> Noticias de Actualidad</description>
+
+
+        <item>
+            <title> Noticia de actualidad</title>
+            <link>https://www.elmundo.es/motor.html</link>
+            <description>Noticias sobre el mundo motor</description>
+        </item>
+
+        <item>
+            <title> Noticia de actualidad</title>
+            <link>https://www.motor.es/noticias/2</link>
+            <description>Noticias sobre el motor</description>
+        </item>
+    </channel>
+</rss>
