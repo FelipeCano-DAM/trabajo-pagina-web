@@ -67,9 +67,10 @@ margin-left:;
 
 #c159 {
 	width: 100%;
-	max-height: 100%;
-	max-width: 100%;
+	max-height: 800px;
+	max-width: 1500px;
 	height: auto;
+	border-radius: 5px;
 }
 
 #interior {
@@ -77,6 +78,8 @@ margin-left:;
 	max-height: 400px;
 	max-width: 750px;
 	height: auto;
+	border-radius: 5px;
+	
 }
 
 #interior2 {
@@ -86,6 +89,8 @@ margin-left:;
 	height: auto;
 	float:right;
 	position:relative;
+	border-radius: 5px;
+
 }
 
 #leonardo {
