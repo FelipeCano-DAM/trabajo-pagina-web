@@ -75,7 +75,7 @@ inputs.forEach((input) => {
     });
 
 formulario.addEventListener('submit', (e) =>{
-    //e.preventDefault();
+    e.preventDefault();
 
     if(campos.nombre && campos.apellidos && campos.direccion && campos.poblacion && campos.telefono){
        formulario.reset();
