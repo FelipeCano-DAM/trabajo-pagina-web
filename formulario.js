@@ -74,8 +74,8 @@ inputs.forEach((input) => {
         input.addEventListener('blur', validarFormulario);
     });
 
-/*formulario.addEventListener('submit', (e) =>{
-    e.preventDefault();*/
+formulario.addEventListener('submit', (e) =>{
+    //e.preventDefault();
 
     if(campos.nombre && campos.apellidos && campos.direccion && campos.poblacion && campos.telefono){
        formulario.reset();
